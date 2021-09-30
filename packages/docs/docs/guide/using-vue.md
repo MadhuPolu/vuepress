@@ -145,6 +145,8 @@ Inside any Markdown file you can then directly use the components (names are inf
 <Foo-Bar/>
 ```
 
+# Oh... Didn't know that vue files can be used directly inside md files
+
 <demo-1></demo-1>
 
 <OtherComponent/>
